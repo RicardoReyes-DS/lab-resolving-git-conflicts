@@ -6,6 +6,7 @@
 
 # Why am I here
 
+<<<<<<< HEAD
 * What has brought you to Ironhack? Friends
 * What knowledge/skills do you expect to learn in this bootcamp? Data Analytics 
 
